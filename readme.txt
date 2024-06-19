@@ -15,4 +15,4 @@ Flask: Web framework for Python.
 MySQL: Relational database management system.
 HTML/CSS/JavaScript: For frontend design and dynamic content handling.
 Authors
-Priyanka V S,R Sindhu,Raghavendra
+Priyanka V S, R Sindhu, Raghavendra
